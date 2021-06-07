@@ -1,6 +1,3 @@
-# InterViewQA
-this is InterView QA 
-
 ## 변경사항 적용 방식
 
 - feature branch -> release branch로 PR 보냄.
